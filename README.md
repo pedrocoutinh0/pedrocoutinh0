@@ -7,6 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://myaccount.google.com/profile?continue=https%3A%2F%2Fmyaccount.google.com%2Fpersonal-info%3Fhl%3Dpt_BR&hl=pt_BR)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocoutinh0&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocoutinh0)](https://github.com/pedrocoutinh0/github-readme-stats)
 
 # Tecnologias que eu uso no meu dia 
 
